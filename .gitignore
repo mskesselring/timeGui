@@ -1,3 +1,7 @@
 
+build
+timeGui.spec
 venv
 *.xml
+.idea/*
+__pycache__

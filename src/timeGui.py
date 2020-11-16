@@ -9,7 +9,8 @@ def main():
     text_color = "green"
     background_color = "black"
 
-    zones = [("EST", "US/Eastern"),
+    zones = [("Pacific", "US/Pacific"),
+             ("EST", "US/Eastern"),
              ("London", "Europe/London"),
              ("Sydney", "Australia/Sydney")]
 
