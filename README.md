@@ -6,3 +6,7 @@ download and run dist/timeGui.exe
 
 ## To run (with python environment):
 install all requirements and run src/timeGui.py
+
+## config/timezone_config.json
+Edit the timezone_config.json to customize timesones.
+NOTE: not available when using the pre-bundled exe

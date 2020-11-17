@@ -1,0 +1,18 @@
+[
+  {
+    "display_name": "Pacific",
+    "zone_name": "US/Pacific"
+  },
+  {
+    "display_name": "EST",
+    "zone_name": "US/Eastern"
+  },
+  {
+    "display_name": "London",
+    "zone_name": "Europe/London"
+  },
+  {
+    "display_name": "Sydney",
+    "zone_name": "Australia/Sydney"
+  }
+]
