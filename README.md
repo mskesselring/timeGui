@@ -1,5 +1,6 @@
 # timeGui
-Displays the current time in various timezones in a gui, updated once per second
+Displays the current time in various timezones in a gui, updated once per second.
+Right-click to close the window
 
 ## To run (without python environment):
 download and run dist/timeGui.exe
