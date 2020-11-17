@@ -51,7 +51,7 @@ def main():
                            background_color=background_color)
         z_layout = [[tz_time], [tz_label]]
         z_frame = sg.Frame(title="", layout=z_layout,
-                           background_color=background_color, border_width=1,
+                           background_color=background_color, border_width=0,
                            element_justification=justification)
 
         tz_times.append(tz_time)
